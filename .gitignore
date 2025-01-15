@@ -1,0 +1,11 @@
+build/
+cmake-build-*/
+
+protocols/generated/
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+
+.DS_Store
