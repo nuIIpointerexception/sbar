@@ -3,6 +3,14 @@ cmake-build-*/
 
 protocols/generated/
 
+sbar
+/sbar
+
+*.pkg.tar
+*.pkg.tar.*
+*.tar.gz
+*.tar.xz
+
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
